@@ -1,0 +1,23 @@
+{
+  "name": "public-data-mining",
+  "version": "0.1.0",
+  "description": "scraping public data from popular site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cimenx/Public-Data-Mining.git"
+  },
+  "keywords": [
+    "data",
+    "mining"
+  ],
+  "author": "Fahmi Akbar Wildana",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/cimenx/Public-Data-Mining/issues"
+  },
+  "homepage": "https://github.com/cimenx/Public-Data-Mining#readme"
+}
